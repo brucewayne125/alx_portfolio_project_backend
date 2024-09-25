@@ -17,11 +17,13 @@ Technologies:
     4 React
     5 MySQL
     6 VS code and Git bash
+    ![blog](https://github.com/user-attachments/assets/1f4c47a5-be9a-49b6-9d81-c5f4bd3fb112)
+
 
 The project is expected to be completed within three months, with careful attentionto each phase of development and testing.
 
 Features:
-    Blockinf of pornographic sites
+    Blocking of pornographic sites
     Acess to scientific research and findings related to porn addiction
     User-friendly interface
 Contributing Authors:
